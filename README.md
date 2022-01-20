@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragtangri
+- 👋 Hi, I’m ANURAG TANGRI
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on Full Stack projects.
